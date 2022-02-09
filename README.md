@@ -1,1 +1,2 @@
-# booi-cazinos.github.io
+# cazino-booi.github.io
+Актуальное зеркало казино Booi приветствует всех любителей онлайн слотов.

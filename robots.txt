@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /goto/
+Disallow: /game/
+
+User-agent: Yandex
+Disallow: /assets/
+Disallow: /goto/
+Disallow: /game/
+Host: https://adrianalounge.ru
