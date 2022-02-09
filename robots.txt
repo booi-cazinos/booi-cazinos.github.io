@@ -7,4 +7,4 @@ User-agent: Yandex
 Disallow: /assets/
 Disallow: /goto/
 Disallow: /game/
-Host: https://adrianalounge.ru
+Host: https://booi-cazinos.github.io
