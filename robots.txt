@@ -7,4 +7,4 @@ User-agent: Yandex
 Disallow: /assets/
 Disallow: /goto/
 Disallow: /game/
-Host: https://booi-cazinos.github.io
+Host: https://booi-cazinos.vercel.app
